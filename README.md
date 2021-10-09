@@ -1,5 +1,5 @@
 # Welcome to my Mail Sender
-![Welcome](https://github.com/ryxandy/MS-sendEmail/blob/master/emailLOGO.png)
+![Welcome](https://github.com/ryxandy/MS-sendEmail/blob/master/emailLOGO.jpg)
 #                                                                        Tour into this application 
 ###                                                             Goals, Technologies, Documentation and Request Examples.
 
