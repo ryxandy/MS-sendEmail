@@ -32,7 +32,7 @@
 ![Json](https://github.com/ryxandy/MS-sendEmail/blob/master/Request.png)
 
 ## Send Email Response example:
-![Json](https://github.com/ryxandy/MS-sendEmail/blob/master/Request.png)
+![Json](https://github.com/ryxandy/MS-sendEmail/blob/master/Response.JPG)
 
 ## Get all Emails Response example:
 ![Json](https://github.com/ryxandy/MS-sendEmail/blob/master/getEmails.JPG)
