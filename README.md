@@ -19,7 +19,7 @@
 #### Swagger
 #### Maven
 #### Postman
-#### Heroku
+#### Lombok
 
 
 ## Basic EndPoint: http://localhost:8080/sending-email
