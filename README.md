@@ -22,17 +22,20 @@
 #### Heroku
 
 
-## Basic EndPoint: https://pokeapi-br.herokuapp.com/swagger-ui.html#/
+## Basic EndPoint: http://localhost:8080/sending-email
 
 ## Possible EndPoints:
-![EndPoints](https://github.com/ryxandy/pokeapi/blob/main/endpoints.PNG)
+![EndPoints](https://github.com/ryxandy/MS-sendEmail/blob/master/swagger.JPG)
 
 
-## Request example:
+## Send Email Request example:
 ![Json](https://github.com/ryxandy/MS-sendEmail/blob/master/Request.png)
 
-## Response example:
+## Send Email Response example:
 ![Json](https://github.com/ryxandy/MS-sendEmail/blob/master/Request.png)
+
+## Get all Emails Response example:
+![Json](https://github.com/ryxandy/MS-sendEmail/blob/master/getEmails.JPG)
 
 # Conclusions
 ### I have learned how to send emails using Rest API using Java and Spring
