@@ -20,7 +20,7 @@ public class EmailService {
     @Autowired
     private JavaMailSender emailSender;
 
-    public EmailModel sendEmail(EmailModel emailModel) {
+    public void sendEmail(EmailModel emailModel) {
         emailModel.setSendDateEmail(LocalDateTime.now());
         try{
             SimpleMailMessage message = new SimpleMailMessage();
@@ -37,6 +37,6 @@ public class EmailService {
         System.out.println(emailModel.getEmailFrom());
         System.out.println(emailModel.getText());
         System.out.println(emailModel.getSendDateEmail().toString());
-            return emailRepository.save(emailModel);
-     }
+        emailRepository.save(emailModel);
+    }
 }
