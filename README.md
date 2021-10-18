@@ -25,7 +25,7 @@
 ## Basic EndPoint: http://localhost:8080/sending-email
 
 ## Possible EndPoints:
-![EndPoints](https://github.com/ryxandy/MS-sendEmail/blob/master/swagger.JPG)
+![EndPoints](https://github.com/ryxandy/MS-sendEmail/blob/master/swag.JPG)
 
 
 ## Send Email Request example:
